@@ -1,19 +1,19 @@
-# 🖐️ Hill Climb Racing Controlled by Hand Gestures
+Hill Climb Racing Controlled by Hand Gestures
 
 Control the Hill Climb Racing game using only your hand gestures and your webcam — no keyboard or mouse needed!
 
 ---
 
-## 📽️ How It Works
+How It Works
 
-- 🖐️ Open Hand → Accelerate (presses Right Arrow key)
-- ✊ Fist → Brake (presses Left Arrow key)
-- ❌ No hand → No action
+-  Open Hand → Accelerate (presses Right Arrow key)
+-  Fist → Brake (presses Left Arrow key)
+-  No hand → No action
 
 Uses your webcam to detect hand poses in real-time with MediaPipe and simulates keyboard presses using PyAutoGUI.
 
 
-## ✅ Requirements
+Requirements
 
 - Python 3.7 or above
 - A webcam (USB)
@@ -21,5 +21,5 @@ Uses your webcam to detect hand poses in real-time with MediaPipe and simulates 
 
 ---
 
-## 🧰 Install Required Libraries
+ Install Required Libraries
 mediapipe opencv-python pyautogui
